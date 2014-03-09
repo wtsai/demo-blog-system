@@ -1,7 +1,7 @@
 {
   "name": "demo-blog-system",
-  "version": "0.0.1",
-  "private": true,
+  "version": "0.0.2",
+  "private": false,
   "scripts": {
     "start": "node app.js"
   },
@@ -12,7 +12,10 @@
   },
   "description": "Simple Blog by Mandice Contributors.",
   "main": "app.js",
-  "repository": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wtsai/demo-blog-system"
+  },
   "keywords": [
     "blog",
     "mongodb",

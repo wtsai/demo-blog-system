@@ -20,7 +20,7 @@ Installation
 
 Install directly via NPM
 
-    npm install hello_world
+    npm install demo-blog-system
 
 Getting started
 -
